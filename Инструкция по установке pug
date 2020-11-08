@@ -1,0 +1,5 @@
+Зайти в консоль
+npm install
+npm install pug
+npm install pug -cli -g
+dir (перейти в папку с программой и написать команду pug --pretty -w index.pug)
